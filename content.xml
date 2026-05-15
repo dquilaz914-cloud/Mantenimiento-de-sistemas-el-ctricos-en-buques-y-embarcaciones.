@@ -1,0 +1,2763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>universal</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260515194830R1VIEL</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260515194830H0VGPS</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Mantenimiento de sistemas eléctricos en buques y embarcaciones.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>universal</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778864612086</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp762747-w0jj5utfw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROYECTO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp762747-w0jj5utfw</odePageId>
+      <odeBlockId>block-1778699422564-9uccxa6ht</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp762747-w0jj5utfw</odePageId>
+          <odeBlockId>block-1778699422564-9uccxa6ht</odeBlockId>
+          <odeIdeviceId>idevice-1778699422563-qy1zgrben</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Proyecto: </strong>Sistemas Eléctricos en Buques y Embarcaciones</p>
+<p><strong>Subtítulo:</strong> Situación de Aprendizaje para CFGS – Mantenimiento Eléctrico Naval</p>
+<p><strong>Autor:</strong> David Quirós Lazareno</p>
+<p><strong>Centro: </strong>IES Galileo – Departamento Marítimo‑Pesquero</p>
+<p><strong>Curso:</strong> 2026</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778699422563-qy1zgrben","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Proyecto: </strong>Sistemas Eléctricos en Buques y Embarcaciones</p>\n<p><strong>Subtítulo:</strong> Situación de Aprendizaje para CFGS – Mantenimiento Eléctrico Naval</p>\n<p><strong>Autor:</strong> David Quirós Lazareno</p>\n<p><strong>Centro: </strong>IES Galileo – Departamento Marítimo‑Pesquero</p>\n<p><strong>Curso:</strong> 2026</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274d-hgb4jfkv7</odePageId>
+  <odeParentPageId>page-mp762747-w0jj5utfw</odeParentPageId>
+  <pageName>Descripción general</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción general</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción general</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274d-hgb4jfkv7</odePageId>
+      <odeBlockId>block-1778699548873-rrgr790zd</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274d-hgb4jfkv7</odePageId>
+          <odeBlockId>block-1778699548873-rrgr790zd</odeBlockId>
+          <odeIdeviceId>idevice-1778699548872-q8dktya8j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Este proyecto se centra en el análisis, diagnóstico y mantenimiento de <strong>sistemas eléctricos en buques y embarcaciones</strong>, trabajando especialmente sobre:</p>
+<ul>
+<li style="text-align: justify;">Motores eléctricos en corriente alterna (CA) y corriente continua (CC).</li>
+<li style="text-align: justify;">Transformadores y circuitos trifásicos.</li>
+<li style="text-align: justify;">Sistemas de protección de generadores frente a sobrecargas y potencia inversa.</li>
+<li style="text-align: justify;">Cuadros de distribución y señalización.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778699548872-q8dktya8j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Este proyecto se centra en el análisis, diagnóstico y mantenimiento de <strong>sistemas eléctricos en buques y embarcaciones</strong>, trabajando especialmente sobre:</p>\n<ul>\n<li style=\"text-align: justify;\">Motores eléctricos en corriente alterna (CA) y corriente continua (CC).</li>\n<li style=\"text-align: justify;\">Transformadores y circuitos trifásicos.</li>\n<li style=\"text-align: justify;\">Sistemas de protección de generadores frente a sobrecargas y potencia inversa.</li>\n<li style=\"text-align: justify;\">Cuadros de distribución y señalización.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274e-w1r81d6ao</odePageId>
+  <odeParentPageId>page-mp762747-w0jj5utfw</odeParentPageId>
+  <pageName>Finalidad del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Finalidad del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Finalidad del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274e-w1r81d6ao</odePageId>
+      <odeBlockId>block-1778699969588-npb5jtmml</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274e-w1r81d6ao</odePageId>
+          <odeBlockId>block-1778699969588-npb5jtmml</odeBlockId>
+          <odeIdeviceId>idevice-1778699969587-a19ckluxm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El objetivo principal es conectar la <strong>teoría</strong>, la <strong>simulación digital</strong> y la <strong>práctica en laboratorio</strong>, para que el alumnado adquiera competencias técnicas y digitales aplicadas al mantenimiento eléctrico naval.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778699969587-a19ckluxm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El objetivo principal es conectar la <strong>teoría</strong>, la <strong>simulación digital</strong> y la <strong>práctica en laboratorio</strong>, para que el alumnado adquiera competencias técnicas y digitales aplicadas al mantenimiento eléctrico naval.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274g-bd1mxj0pj</odePageId>
+  <odeParentPageId>page-mp762747-w0jj5utfw</odeParentPageId>
+  <pageName>Objetivos para el alumnado</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Objetivos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Objetivos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274g-bd1mxj0pj</odePageId>
+      <odeBlockId>block-1778700049738-aa1ryvf6e</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274g-bd1mxj0pj</odePageId>
+          <odeBlockId>block-1778700049738-aa1ryvf6e</odeBlockId>
+          <odeIdeviceId>idevice-1778700049737-t41nxh6o1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Comprender el funcionamiento de motores eléctricos CA y CC en el ámbito naval.</li>
+<li>Analizar transformadores y circuitos trifásicos aplicados a buques y embarcaciones.</li>
+<li>Verificar el funcionamiento de los sistemas de protección de generadores.</li>
+<li>Realizar tareas de diagnóstico y mantenimiento siguiendo criterios de seguridad.</li>
+<li>Elaborar un <strong>portafolio digital</strong> que recoja evidencias del proceso de aprendizaje.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778700049737-t41nxh6o1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Comprender el funcionamiento de motores eléctricos CA y CC en el ámbito naval.</li>\n<li>Analizar transformadores y circuitos trifásicos aplicados a buques y embarcaciones.</li>\n<li>Verificar el funcionamiento de los sistemas de protección de generadores.</li>\n<li>Realizar tareas de diagnóstico y mantenimiento siguiendo criterios de seguridad.</li>\n<li>Elaborar un <strong>portafolio digital</strong> que recoja evidencias del proceso de aprendizaje.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274h-m78qwsztx</odePageId>
+  <odeParentPageId>page-mp762747-w0jj5utfw</odeParentPageId>
+  <pageName>Nivel educativo y contexto</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nivel educativo y contexto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nivel educativo y contexto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274h-m78qwsztx</odePageId>
+      <odeBlockId>block-1778700098627-dol75so7e</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274h-m78qwsztx</odePageId>
+          <odeBlockId>block-1778700098627-dol75so7e</odeBlockId>
+          <odeIdeviceId>idevice-1778700098626-952f2com0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Nivel: </strong>Ciclo Formativo de Grado Superior – Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones.<br /><strong>Módulo profesional: </strong>Organización del mantenimiento y montaje de instalaciones y sistemas eléctricos de buques y embarcaciones.<br /><strong>Idioma:</strong> Español (hablado y escrito).<br /><strong>Duración aproximada del proyecto:</strong> 25 sesiones.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778700098626-952f2com0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Nivel: </strong>Ciclo Formativo de Grado Superior – Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones.<br /><strong>Módulo profesional: </strong>Organización del mantenimiento y montaje de instalaciones y sistemas eléctricos de buques y embarcaciones.<br /><strong>Idioma:</strong> Español (hablado y escrito).<br /><strong>Duración aproximada del proyecto:</strong> 25 sesiones.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274i-be419p5qw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS Y DERECHOS DIGITALES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS Y DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS Y DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PROTECCIÓN DE DATOS Y DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274i-be419p5qw</odePageId>
+      <odeBlockId>block-1778701096481-mjkeibeg9</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274i-be419p5qw</odePageId>
+          <odeBlockId>block-1778701096481-mjkeibeg9</odeBlockId>
+          <odeIdeviceId>idevice-1778701096479-5mg1katos</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li style="text-align: justify;">¿Qué son los datos personales?</li>
+<li style="text-align: justify;">Principios básicos de protección de datos.</li>
+<li style="text-align: justify;">Derechos digitales del alumno.</li>
+<li style="text-align: justify;">Normas de uso responsable en este proyecto.</li>
+<li style="text-align: justify;">Compromiso del alumnado.</li>
+</ul>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/2.3. Licencias y seguridad.png" width="1024" height="1536" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778701096479-5mg1katos","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li style=\"text-align: justify;\">¿Qué son los datos personales?</li>\n<li style=\"text-align: justify;\">Principios básicos de protección de datos.</li>\n<li style=\"text-align: justify;\">Derechos digitales del alumno.</li>\n<li style=\"text-align: justify;\">Normas de uso responsable en este proyecto.</li>\n<li style=\"text-align: justify;\">Compromiso del alumnado.</li>\n</ul>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/2.3. Licencias y seguridad.png\" width=\"1024\" height=\"1536\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274k-hijmls595</odePageId>
+  <odeParentPageId>page-mp76274i-be419p5qw</odeParentPageId>
+  <pageName>¿Qué son los datos personales?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué son los datos personales?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué son los datos personales?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274k-hijmls595</odePageId>
+      <odeBlockId>block-1778701162104-7ylatejiz</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274k-hijmls595</odePageId>
+          <odeBlockId>block-1778701162104-7ylatejiz</odeBlockId>
+          <odeIdeviceId>idevice-1778701162103-gfpfu23re</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se considera dato personal cualquier información que identifica o puede identificar a una persona:</p>
+<ul>
+<li style="text-align: justify;">Nombre y apellidos.</li>
+<li style="text-align: justify;">DNI o pasaporte.</li>
+<li style="text-align: justify;">Teléfono, dirección, correo electrónico.</li>
+<li style="text-align: justify;">Imágenes, voz, usuario de redes sociales, etc.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778701162103-gfpfu23re","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se considera dato personal cualquier información que identifica o puede identificar a una persona:</p>\n<ul>\n<li style=\"text-align: justify;\">Nombre y apellidos.</li>\n<li style=\"text-align: justify;\">DNI o pasaporte.</li>\n<li style=\"text-align: justify;\">Teléfono, dirección, correo electrónico.</li>\n<li style=\"text-align: justify;\">Imágenes, voz, usuario de redes sociales, etc.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274l-g2tkfq45r</odePageId>
+  <odeParentPageId>page-mp76274i-be419p5qw</odeParentPageId>
+  <pageName>Principios básicos de protección de datos.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Principios básicos de protección de datos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Principios básicos de protección de datos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274l-g2tkfq45r</odePageId>
+      <odeBlockId>block-1778768654260-w09gmsiaj</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274l-g2tkfq45r</odePageId>
+          <odeBlockId>block-1778768654260-w09gmsiaj</odeBlockId>
+          <odeIdeviceId>idevice-1778768654259-84ym5mn5n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li style="text-align: justify;"><strong>Legalidad: </strong>los datos se tratan de forma lícita y transparente.</li>
+<li style="text-align: justify;"><strong>Minimización:</strong> solo se recogen los datos estrictamente necesarios.</li>
+<li style="text-align: justify;"><strong>Seguridad: </strong>se protege la información frente a accesos no autorizados.</li>
+<li style="text-align: justify;"><strong>Confidencialidad:</strong> solo acceden a las personas autorizadas.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778768654259-84ym5mn5n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li style=\"text-align: justify;\"><strong>Legalidad: </strong>los datos se tratan de forma lícita y transparente.</li>\n<li style=\"text-align: justify;\"><strong>Minimización:</strong> solo se recogen los datos estrictamente necesarios.</li>\n<li style=\"text-align: justify;\"><strong>Seguridad: </strong>se protege la información frente a accesos no autorizados.</li>\n<li style=\"text-align: justify;\"><strong>Confidencialidad:</strong> solo acceden a las personas autorizadas.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274n-qz05t4c4m</odePageId>
+  <odeParentPageId>page-mp76274i-be419p5qw</odeParentPageId>
+  <pageName>Derechos digitales del alumno</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Derechos digitales del alumno</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Derechos digitales del alumno</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274n-qz05t4c4m</odePageId>
+      <odeBlockId>block-1778768748569-9i121mu0y</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274n-qz05t4c4m</odePageId>
+          <odeBlockId>block-1778768748569-9i121mu0y</odeBlockId>
+          <odeIdeviceId>idevice-1778768748568-d9cvw33ck</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li style="text-align: justify;">Derecho de acceso, rectificación y supresión de sus datos.</li>
+<li style="text-align: justify;">Derecho a la portabilidad ya la limitación del tratamiento.</li>
+<li style="text-align: justify;">Derecho de oposición a determinados usos de sus datos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778768748568-d9cvw33ck","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li style=\"text-align: justify;\">Derecho de acceso, rectificación y supresión de sus datos.</li>\n<li style=\"text-align: justify;\">Derecho a la portabilidad ya la limitación del tratamiento.</li>\n<li style=\"text-align: justify;\">Derecho de oposición a determinados usos de sus datos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274p-f2giaxcl9</odePageId>
+  <odeParentPageId>page-mp76274i-be419p5qw</odeParentPageId>
+  <pageName>Normas de uso responsable en este proyecto.</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Normas de uso responsable en este proyecto.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Normas de uso responsable en este proyecto.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274p-f2giaxcl9</odePageId>
+      <odeBlockId>block-1778768777581-t3qode898</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274p-f2giaxcl9</odePageId>
+          <odeBlockId>block-1778768777581-t3qode898</odeBlockId>
+          <odeIdeviceId>idevice-1778768777580-1v2owildk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>No compartir datos personales de compañeros/as sin su consentimiento.</li>
+<li>No publicar imágenes o vídeos de otras personas sin autorización.</li>
+<li>Usar contraseñas seguras y no compartirlas.</li>
+<li>Respetar la autoridad y licencias de imágenes, vídeos y recursos utilizados.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778768777580-1v2owildk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>No compartir datos personales de compañeros/as sin su consentimiento.</li>\n<li>No publicar imágenes o vídeos de otras personas sin autorización.</li>\n<li>Usar contraseñas seguras y no compartirlas.</li>\n<li>Respetar la autoridad y licencias de imágenes, vídeos y recursos utilizados.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274q-r9nnbvyhg</odePageId>
+  <odeParentPageId>page-mp76274i-be419p5qw</odeParentPageId>
+  <pageName>Compromiso del alumnado:</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Compromiso del alumnado:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Compromiso del alumnado:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274q-r9nnbvyhg</odePageId>
+      <odeBlockId>block-1778768876612-4qk2gfo31</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274q-r9nnbvyhg</odePageId>
+          <odeBlockId>block-1778768876612-4qk2gfo31</odeBlockId>
+          <odeIdeviceId>idevice-1778768876610-7hc1r4p3f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">☐ Acepto las normas de uso responsable de la tecnología y la protección de datos personales durante el desarrollo del proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778768876610-7hc1r4p3f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">☐ Acepto las normas de uso responsable de la tecnología y la protección de datos personales durante el desarrollo del proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274r-1z0u68xxv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRODUCTO FINAL DEL PROYECTO</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRODUCTO FINAL DEL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274r-1z0u68xxv</odePageId>
+      <odeBlockId>block-1778768509499-umaii36yj</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274r-1z0u68xxv</odePageId>
+          <odeBlockId>block-1778768509499-umaii36yj</odeBlockId>
+          <odeIdeviceId>idevice-1778768509496-r2zxf7lwd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>¿Qué tendrás que elaborar?</li>
+<li>Contenido del portafolio.</li>
+<li>Formato recomendado.</li>
+<li>Criterios de calidad del producto final.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778768509496-r2zxf7lwd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>¿Qué tendrás que elaborar?</li>\n<li>Contenido del portafolio.</li>\n<li>Formato recomendado.</li>\n<li>Criterios de calidad del producto final.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274t-bi3gi15wb</odePageId>
+  <odeParentPageId>page-mp76274r-1z0u68xxv</odeParentPageId>
+  <pageName>¿Qué tendrás que elaborar?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué tendrás que elaborar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué tendrás que elaborar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274t-bi3gi15wb</odePageId>
+      <odeBlockId>block-1778769322065-xq8ui574a</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274t-bi3gi15wb</odePageId>
+          <odeBlockId>block-1778769322065-xq8ui574a</odeBlockId>
+          <odeIdeviceId>idevice-1778769322063-wiv70szvq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Al finalizar el proyecto, deberás presentar un <strong>Portafolio Técnico Digital </strong>que recoja tu trabajo a lo largo de las 25 sesiones.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778769322063-wiv70szvq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Al finalizar el proyecto, deberás presentar un <strong>Portafolio Técnico Digital </strong>que recoja tu trabajo a lo largo de las 25 sesiones.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274u-ydgcnqbmr</odePageId>
+  <odeParentPageId>page-mp76274r-1z0u68xxv</odeParentPageId>
+  <pageName>Contenido del portafolio</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Contenido del portafolio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Contenido del portafolio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274u-ydgcnqbmr</odePageId>
+      <odeBlockId>block-1778769350841-1ipwlrjm5</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274u-ydgcnqbmr</odePageId>
+          <odeBlockId>block-1778769350841-1ipwlrjm5</odeBlockId>
+          <odeIdeviceId>idevice-1778769350840-6h4ogyusb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li style="text-align: justify;">Informes de las prácticas de laboratorio (medidas, procedimientos, conclusiones).</li>
+<li style="text-align: justify;">Evidencias de simulación (capturas de pantalla, esquemas, pequeños vídeos explicativos).</li>
+<li style="text-align: justify;">Registros de comprobación de sistemas de protección de generadores.</li>
+<li style="text-align: justify;">Reflexión personal sobre lo aprendido y las dificultades encontradas.</li>
+<li style="text-align: justify;">Opcional: breve vídeo de presentación técnica del proyecto final.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778769350840-6h4ogyusb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li style=\"text-align: justify;\">Informes de las prácticas de laboratorio (medidas, procedimientos, conclusiones).</li>\n<li style=\"text-align: justify;\">Evidencias de simulación (capturas de pantalla, esquemas, pequeños vídeos explicativos).</li>\n<li style=\"text-align: justify;\">Registros de comprobación de sistemas de protección de generadores.</li>\n<li style=\"text-align: justify;\">Reflexión personal sobre lo aprendido y las dificultades encontradas.</li>\n<li style=\"text-align: justify;\">Opcional: breve vídeo de presentación técnica del proyecto final.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274v-kfap6xnw8</odePageId>
+  <odeParentPageId>page-mp76274r-1z0u68xxv</odeParentPageId>
+  <pageName>Formato recomendado</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Formato recomendado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Formato recomendado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274v-kfap6xnw8</odePageId>
+      <odeBlockId>block-1778769384467-knfxpsw8g</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274v-kfap6xnw8</odePageId>
+          <odeBlockId>block-1778769384467-knfxpsw8g</odeBlockId>
+          <odeIdeviceId>idevice-1778769384466-7zh5a2r7e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li style="text-align: justify;">Google Sites, Genially o documento PDF estructurado.</li>
+<li style="text-align: justify;">Enlace compartido con el docente con permisos de visualización.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778769384466-7zh5a2r7e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li style=\"text-align: justify;\">Google Sites, Genially o documento PDF estructurado.</li>\n<li style=\"text-align: justify;\">Enlace compartido con el docente con permisos de visualización.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274w-tr49ts8ij</odePageId>
+  <odeParentPageId>page-mp76274r-1z0u68xxv</odeParentPageId>
+  <pageName>Criterios de calidad del producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de calidad del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de calidad del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274w-tr49ts8ij</odePageId>
+      <odeBlockId>block-1778769415593-4wjch6uog</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274w-tr49ts8ij</odePageId>
+          <odeBlockId>block-1778769415593-4wjch6uog</odeBlockId>
+          <odeIdeviceId>idevice-1778769415592-agp5d74th</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li style="text-align: justify;">Rigor técnico en las explicaciones y medidas.</li>
+<li style="text-align: justify;">Claridad en la organización de la información.</li>
+<li style="text-align: justify;">Uso adecuado de herramientas digitales.</li>
+<li style="text-align: justify;">Reflexión final honesta y bien argumentada.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778769415592-agp5d74th","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li style=\"text-align: justify;\">Rigor técnico en las explicaciones y medidas.</li>\n<li style=\"text-align: justify;\">Claridad en la organización de la información.</li>\n<li style=\"text-align: justify;\">Uso adecuado de herramientas digitales.</li>\n<li style=\"text-align: justify;\">Reflexión final honesta y bien argumentada.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274x-oquo2n7lw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CURACIÓN DE CONTENIDOS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274x-oquo2n7lw</odePageId>
+      <odeBlockId>block-1778769500441-nxmfaad35</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274x-oquo2n7lw</odePageId>
+          <odeBlockId>block-1778769500441-nxmfaad35</odeBlockId>
+          <odeIdeviceId>idevice-1778769500440-rkb9ov2dz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>Recursos y curación de contenidos</h1>
+<h2>Recursos para el docente</h2>
+<p>A continuación se presenta una colección de recursos seleccionados para el diseño y seguimiento del proyecto:</p>
+<p><strong>Padlet de referencia (docente):</strong><br /><a href="https://padlet.com/dquilaz914/motores-y-transformadores-en-cc-y-ca-4uac6q0kmjszel63" target="_blank" rel="noopener"> Motores y transformadores en CC y CA – Padlet </a></p>
+<h2>Recursos para el alumnado</h2>
+<p>El siguiente panel recoge recursos organizados para que puedas consultar vídeos, simuladores y materiales de apoyo:</p>
+<p><strong>Symbaloo (alumnado):</strong><br /><a href="https://www.symbaloo.com/shared/AAAABisAwr4AA42ADpUBwQ==" target="_blank" rel="noopener"> Recursos de sistemas eléctricos navales – Symbaloo </a></p>
+<p>Cada recurso enlazado respeta los derechos de autor y mantiene la licencia indicada por su creador en la página de origen.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778769500440-rkb9ov2dz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>Recursos y curación de contenidos</h1>\n<h2>Recursos para el docente</h2>\n<p>A continuación se presenta una colección de recursos seleccionados para el diseño y seguimiento del proyecto:</p>\n<p><strong>Padlet de referencia (docente):</strong><br /><a href=\"https://padlet.com/dquilaz914/motores-y-transformadores-en-cc-y-ca-4uac6q0kmjszel63\" target=\"_blank\" rel=\"noopener\"> Motores y transformadores en CC y CA – Padlet </a></p>\n<h2>Recursos para el alumnado</h2>\n<p>El siguiente panel recoge recursos organizados para que puedas consultar vídeos, simuladores y materiales de apoyo:</p>\n<p><strong>Symbaloo (alumnado):</strong><br /><a href=\"https://www.symbaloo.com/shared/AAAABisAwr4AA42ADpUBwQ==\" target=\"_blank\" rel=\"noopener\"> Recursos de sistemas eléctricos navales – Symbaloo </a></p>\n<p>Cada recurso enlazado respeta los derechos de autor y mantiene la licencia indicada por su creador en la página de origen.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274y-ptoyv2pdm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LÍNEA TEMPORAL</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274y-ptoyv2pdm</odePageId>
+      <odeBlockId>block-1778769974810-38oipvydl</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274y-ptoyv2pdm</odePageId>
+          <odeBlockId>block-1778769974810-38oipvydl</odeBlockId>
+          <odeIdeviceId>idevice-1778769974808-ienglpkex</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: justify;">Línea temporal del proyecto</h1>
+<p style="text-align: justify;">El proyecto se desarrolla a lo largo de <strong>25 sesiones</strong>, organizadas en los siguientes bloques:</p>
+<table border="1" cellpadding="6" cellspacing="0">
+<thead>
+<tr>
+<th>Sesiones</th>
+<th>Bloque</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1–2</td>
+<td>Introducción y seguridad</td>
+<td>Presentación del proyecto, normas de seguridad y uso de EPI.</td>
+</tr>
+<tr>
+<td>3–6</td>
+<td>Fundamentos teóricos</td>
+<td>Motores eléctricos, transformadores y circuitos trifásicos.</td>
+</tr>
+<tr>
+<td>7–10</td>
+<td>Simulación y diseño</td>
+<td>Uso de CADESIMU / Crocodile y otros simuladores.</td>
+</tr>
+<tr>
+<td>11–14</td>
+<td>Prácticas de instrumentación</td>
+<td>Medición, señalización y comprobación de instrumentos.</td>
+</tr>
+<tr>
+<td>15–18</td>
+<td>Cuadros y distribución</td>
+<td>Montaje y verificación de cuadros de distribución.</td>
+</tr>
+<tr>
+<td>19–21</td>
+<td>Protección y generadores</td>
+<td>Verificación de sistemas de protección de generadores.</td>
+</tr>
+<tr>
+<td>22–25</td>
+<td>Proyecto integrador</td>
+<td>Diagnóstico y mantenimiento de un sistema real y presentación del producto final.</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;">Puedes consultar también la versión gráfica de esta línea temporal en la <a href="https://euphonious-croquembouche-f29b82.netlify.app/" title="">infografía del proyecto</a>.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778769974808-ienglpkex","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: justify;\">Línea temporal del proyecto</h1>\n<p style=\"text-align: justify;\">El proyecto se desarrolla a lo largo de <strong>25 sesiones</strong>, organizadas en los siguientes bloques:</p>\n<table border=\"1\" cellpadding=\"6\" cellspacing=\"0\">\n<thead>\n<tr>\n<th>Sesiones</th>\n<th>Bloque</th>\n<th>Descripción</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1–2</td>\n<td>Introducción y seguridad</td>\n<td>Presentación del proyecto, normas de seguridad y uso de EPI.</td>\n</tr>\n<tr>\n<td>3–6</td>\n<td>Fundamentos teóricos</td>\n<td>Motores eléctricos, transformadores y circuitos trifásicos.</td>\n</tr>\n<tr>\n<td>7–10</td>\n<td>Simulación y diseño</td>\n<td>Uso de CADESIMU / Crocodile y otros simuladores.</td>\n</tr>\n<tr>\n<td>11–14</td>\n<td>Prácticas de instrumentación</td>\n<td>Medición, señalización y comprobación de instrumentos.</td>\n</tr>\n<tr>\n<td>15–18</td>\n<td>Cuadros y distribución</td>\n<td>Montaje y verificación de cuadros de distribución.</td>\n</tr>\n<tr>\n<td>19–21</td>\n<td>Protección y generadores</td>\n<td>Verificación de sistemas de protección de generadores.</td>\n</tr>\n<tr>\n<td>22–25</td>\n<td>Proyecto integrador</td>\n<td>Diagnóstico y mantenimiento de un sistema real y presentación del producto final.</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: justify;\">Puedes consultar también la versión gráfica de esta línea temporal en la <a href=\"https://euphonious-croquembouche-f29b82.netlify.app/\" title=\"\">infografía del proyecto</a>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76274z-wf1xtwd7d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRITERIO DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIO DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIO DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76274z-wf1xtwd7d</odePageId>
+      <odeBlockId>block-1778770130042-i7r8o72xq</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76274z-wf1xtwd7d</odePageId>
+          <odeBlockId>block-1778770130042-i7r8o72xq</odeBlockId>
+          <odeIdeviceId>idevice-1778770130041-nnttu8euc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: justify;">Criterios de evaluación asociados a las tareas</h1>
+<p style="text-align: justify;">En la siguiente tabla se relacionan las tareas del proyecto con los criterios de evaluación, el tipo de agrupamiento, el tiempo aproximado y las herramientas sugeridas:</p>
+<table border="1" cellpadding="6" cellspacing="0">
+<thead>
+<tr>
+<th>Tarea</th>
+<th>Criterio de evaluación</th>
+<th>Agrupamiento</th>
+<th>Tiempo aproximado</th>
+<th>Herramientas sugeridas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Análisis de sistemas de generación y distribución trifásica</td>
+<td>RA 1; CE e (Mantenimiento instalaciones y máquinas eléctricas)</td>
+<td>Parejas (2)</td>
+<td>3 sesiones (6 h)</td>
+<td>Presentación (Google Slides/PowerPoint); simulador de circuitos; multímetro; pinza amperimétrica.</td>
+</tr>
+<tr>
+<td>Control y distribución de carga desde cuadro de distribución</td>
+<td>RA 2; CE a</td>
+<td>Parejas (2)</td>
+<td>4 sesiones (8 h)</td>
+<td>Software de diseño eléctrico; banco de pruebas; equipos de protección.</td>
+</tr>
+<tr>
+<td>Comprobación de instrumentos y lámparas de señalización</td>
+<td>RA 2; CE b</td>
+<td>Parejas (2)</td>
+<td>2 sesiones (4 h)</td>
+<td>Multímetros, voltímetros, lámparas de señalización; simulador.</td>
+</tr>
+<tr>
+<td>Verificación de sistemas de protección de generadores</td>
+<td>RA 2; CE c</td>
+<td>Parejas (2)</td>
+<td>3 sesiones (6 h)</td>
+<td>Generador de banco; simuladores de carga; equipos de medida.</td>
+</tr>
+<tr>
+<td>Proyecto integrador: Diagnóstico y mantenimiento de un sistema real</td>
+<td>Integración de RA 1 y RA 2</td>
+<td>Grupos de 3–4</td>
+<td>6–8 sesiones (12–16 h)</td>
+<td>Todas las herramientas anteriores; CADESIMU / Crocodile.</td>
+</tr>
+<tr>
+<td>Portafolio digital del alumnado</td>
+<td>Competencias transversales y digitales</td>
+<td>Individual</td>
+<td>Trabajo continuo (25 sesiones)</td>
+<td>Google Drive; Padlet; Symbaloo u otras plataformas digitales.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778770130041-nnttu8euc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: justify;\">Criterios de evaluación asociados a las tareas</h1>\n<p style=\"text-align: justify;\">En la siguiente tabla se relacionan las tareas del proyecto con los criterios de evaluación, el tipo de agrupamiento, el tiempo aproximado y las herramientas sugeridas:</p>\n<table border=\"1\" cellpadding=\"6\" cellspacing=\"0\">\n<thead>\n<tr>\n<th>Tarea</th>\n<th>Criterio de evaluación</th>\n<th>Agrupamiento</th>\n<th>Tiempo aproximado</th>\n<th>Herramientas sugeridas</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Análisis de sistemas de generación y distribución trifásica</td>\n<td>RA 1; CE e (Mantenimiento instalaciones y máquinas eléctricas)</td>\n<td>Parejas (2)</td>\n<td>3 sesiones (6 h)</td>\n<td>Presentación (Google Slides/PowerPoint); simulador de circuitos; multímetro; pinza amperimétrica.</td>\n</tr>\n<tr>\n<td>Control y distribución de carga desde cuadro de distribución</td>\n<td>RA 2; CE a</td>\n<td>Parejas (2)</td>\n<td>4 sesiones (8 h)</td>\n<td>Software de diseño eléctrico; banco de pruebas; equipos de protección.</td>\n</tr>\n<tr>\n<td>Comprobación de instrumentos y lámparas de señalización</td>\n<td>RA 2; CE b</td>\n<td>Parejas (2)</td>\n<td>2 sesiones (4 h)</td>\n<td>Multímetros, voltímetros, lámparas de señalización; simulador.</td>\n</tr>\n<tr>\n<td>Verificación de sistemas de protección de generadores</td>\n<td>RA 2; CE c</td>\n<td>Parejas (2)</td>\n<td>3 sesiones (6 h)</td>\n<td>Generador de banco; simuladores de carga; equipos de medida.</td>\n</tr>\n<tr>\n<td>Proyecto integrador: Diagnóstico y mantenimiento de un sistema real</td>\n<td>Integración de RA 1 y RA 2</td>\n<td>Grupos de 3–4</td>\n<td>6–8 sesiones (12–16 h)</td>\n<td>Todas las herramientas anteriores; CADESIMU / Crocodile.</td>\n</tr>\n<tr>\n<td>Portafolio digital del alumnado</td>\n<td>Competencias transversales y digitales</td>\n<td>Individual</td>\n<td>Trabajo continuo (25 sesiones)</td>\n<td>Google Drive; Padlet; Symbaloo u otras plataformas digitales.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp762750-30e3emubx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp762750-30e3emubx</odePageId>
+      <odeBlockId>block-1778770242516-57zh077ar</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp762750-30e3emubx</odePageId>
+          <odeBlockId>block-1778770242516-57zh077ar</odeBlockId>
+          <odeIdeviceId>idevice-1778770242514-4lk4trpl4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>RÚBRICA — Verificación de sistemas de protección de generadores.</li>
+<li>RÚBRICA — Portafolio Digital del Alumnado.</li>
+<li>RÚBRICA — Proyecto Integrador (Diagnóstico y Mantenimiento).</li>
+</ul>
+<p><a href="file:///C:/Users/david/Downloads/Instrumentos%20de%20Evaluaci%C3%B3n%20-%20Mantenimiento%20El%C3%A9ctrico%20(1).html" target="_blank" title="" rel="noopener">Estrategia de Evaluación del Módulo</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778770242514-4lk4trpl4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>RÚBRICA — Verificación de sistemas de protección de generadores.</li>\n<li>RÚBRICA — Portafolio Digital del Alumnado.</li>\n<li>RÚBRICA — Proyecto Integrador (Diagnóstico y Mantenimiento).</li>\n</ul>\n<p><a href=\"file:///C:/Users/david/Downloads/Instrumentos%20de%20Evaluaci%C3%B3n%20-%20Mantenimiento%20El%C3%A9ctrico%20(1).html\" target=\"_blank\" title=\"\" rel=\"noopener\">Estrategia de Evaluación del Módulo</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp762751-97ty0c67x</odePageId>
+  <odeParentPageId>page-mp762750-30e3emubx</odeParentPageId>
+  <pageName>RÚBRICA — Verificación de sistemas de protección de generadores</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RÚBRICA — Verificación de sistemas de protección de generadores</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RÚBRICA — Verificación de sistemas de protección de generadores</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp762751-97ty0c67x</odePageId>
+      <odeBlockId>block-1778771142699-qh5ougg0l</odeBlockId>
+      <blockName>(Criterio RA2 – CE c)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp762751-97ty0c67x</odePageId>
+          <odeBlockId>block-1778771142699-qh5ougg0l</odeBlockId>
+          <odeIdeviceId>idevice-1778771142697-480yhkakc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Criterio de evaluación:</strong> Se ha verificado el funcionamiento de los sistemas de protección de los generadores frente a sobrecargas y potencia inversa, comprobando la activación de las alarmas.</p>
+<table border="1" cellpadding="8" cellspacing="0" width="100%">
+<thead style="background: #e6e6e6;">
+<tr>
+<th>Aspectos a valorar</th>
+<th>Excelente</th>
+<th>Bien</th>
+<th>Regular</th>
+<th>Insuficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Correcta identificación de los sistemas de protección</td>
+<td>Identifica todos los sistemas de protección y explica su función con precisión técnica.</td>
+<td>Identifica la mayoría de los sistemas con pequeñas imprecisiones.</td>
+<td>Identificación parcial o con dudas importantes.</td>
+<td>No identifica correctamente los sistemas de protección.</td>
+</tr>
+<tr>
+<td>Verificación del funcionamiento ante sobrecargas</td>
+<td>Realiza las pruebas de forma segura, ordenada y documentada.</td>
+<td>Realiza las pruebas con seguridad aceptable y documentación parcial.</td>
+<td>Necesita ayuda frecuente para realizar las pruebas.</td>
+<td>No consigue realizar las pruebas de forma adecuada.</td>
+</tr>
+<tr>
+<td>Verificación del funcionamiento ante potencia inversa</td>
+<td>Comprende el fenómeno y ajusta correctamente los parámetros.</td>
+<td>Comprende el fenómeno con alguna ayuda.</td>
+<td>Presenta errores conceptuales importantes.</td>
+<td>No identifica ni comprende la potencia inversa.</td>
+</tr>
+<tr>
+<td>Comprobación de la activación de alarmas</td>
+<td>Comprueba y registra con precisión la activación de todas las alarmas.</td>
+<td>Comprueba la mayoría de las alarmas con algún olvido en el registro.</td>
+<td>Comprobaciones incompletas o poco sistemáticas.</td>
+<td>No realiza la comprobación de las alarmas.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778771142697-480yhkakc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Criterio de evaluación:</strong> Se ha verificado el funcionamiento de los sistemas de protección de los generadores frente a sobrecargas y potencia inversa, comprobando la activación de las alarmas.</p>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" width=\"100%\">\n<thead style=\"background: #e6e6e6;\">\n<tr>\n<th>Aspectos a valorar</th>\n<th>Excelente</th>\n<th>Bien</th>\n<th>Regular</th>\n<th>Insuficiente</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Correcta identificación de los sistemas de protección</td>\n<td>Identifica todos los sistemas de protección y explica su función con precisión técnica.</td>\n<td>Identifica la mayoría de los sistemas con pequeñas imprecisiones.</td>\n<td>Identificación parcial o con dudas importantes.</td>\n<td>No identifica correctamente los sistemas de protección.</td>\n</tr>\n<tr>\n<td>Verificación del funcionamiento ante sobrecargas</td>\n<td>Realiza las pruebas de forma segura, ordenada y documentada.</td>\n<td>Realiza las pruebas con seguridad aceptable y documentación parcial.</td>\n<td>Necesita ayuda frecuente para realizar las pruebas.</td>\n<td>No consigue realizar las pruebas de forma adecuada.</td>\n</tr>\n<tr>\n<td>Verificación del funcionamiento ante potencia inversa</td>\n<td>Comprende el fenómeno y ajusta correctamente los parámetros.</td>\n<td>Comprende el fenómeno con alguna ayuda.</td>\n<td>Presenta errores conceptuales importantes.</td>\n<td>No identifica ni comprende la potencia inversa.</td>\n</tr>\n<tr>\n<td>Comprobación de la activación de alarmas</td>\n<td>Comprueba y registra con precisión la activación de todas las alarmas.</td>\n<td>Comprueba la mayoría de las alarmas con algún olvido en el registro.</td>\n<td>Comprobaciones incompletas o poco sistemáticas.</td>\n<td>No realiza la comprobación de las alarmas.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp762752-4giwk0u7o</odePageId>
+  <odeParentPageId>page-mp762750-30e3emubx</odeParentPageId>
+  <pageName>RÚBRICA — Portafolio Digital del Alumnado</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RÚBRICA — Portafolio Digital del Alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RÚBRICA — Portafolio Digital del Alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp762752-4giwk0u7o</odePageId>
+      <odeBlockId>block-1778771248809-vt6a3d1ls</odeBlockId>
+      <blockName>(Competencias transversales y digitales)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp762752-4giwk0u7o</odePageId>
+          <odeBlockId>block-1778771248809-vt6a3d1ls</odeBlockId>
+          <odeIdeviceId>idevice-1778771248808-xgupsnxmk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Descripción:</strong> El portafolio recoge evidencias del aprendizaje, reflexiones personales y documentación técnica del proyecto.</p>
+<table border="1" cellpadding="8" cellspacing="0" width="100%">
+<thead style="background: #e6e6e6;">
+<tr>
+<th>Aspectos a valorar</th>
+<th>Excelente</th>
+<th>Bien</th>
+<th>Regular</th>
+<th>Insuficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Organización y estructura</td>
+<td>Portafolio muy bien organizado, con navegación clara y coherente.</td>
+<td>Buena organización, aunque con pequeños desajustes.</td>
+<td>Estructura poco clara o incompleta.</td>
+<td>Desorganizado o difícil de navegar.</td>
+</tr>
+<tr>
+<td>Documentación técnica</td>
+<td>Incluye informes completos, medidas precisas y explicaciones rigurosas.</td>
+<td>Documentación adecuada con algunos detalles mejorables.</td>
+<td>Documentación incompleta o con errores técnicos.</td>
+<td>No aporta documentación técnica relevante.</td>
+</tr>
+<tr>
+<td>Evidencias de aprendizaje</td>
+<td>Incluye simulaciones, capturas, vídeos y registros bien presentados.</td>
+<td>Incluye evidencias suficientes y claras.</td>
+<td>Evidencias escasas o poco relevantes.</td>
+<td>No aporta evidencias del proceso.</td>
+</tr>
+<tr>
+<td>Reflexión personal</td>
+<td>Reflexión profunda, crítica y bien argumentada.</td>
+<td>Reflexión adecuada con algunos aspectos superficiales.</td>
+<td>Reflexión muy breve o poco significativa.</td>
+<td>No incluye reflexión personal.</td>
+</tr>
+<tr>
+<td>Competencia digital</td>
+<td>Uso excelente de herramientas digitales y recursos multimedia.</td>
+<td>Uso adecuado de herramientas digitales.</td>
+<td>Uso limitado o poco eficaz de herramientas digitales.</td>
+<td>No demuestra competencia digital.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778771248808-xgupsnxmk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Descripción:</strong> El portafolio recoge evidencias del aprendizaje, reflexiones personales y documentación técnica del proyecto.</p>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" width=\"100%\">\n<thead style=\"background: #e6e6e6;\">\n<tr>\n<th>Aspectos a valorar</th>\n<th>Excelente</th>\n<th>Bien</th>\n<th>Regular</th>\n<th>Insuficiente</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Organización y estructura</td>\n<td>Portafolio muy bien organizado, con navegación clara y coherente.</td>\n<td>Buena organización, aunque con pequeños desajustes.</td>\n<td>Estructura poco clara o incompleta.</td>\n<td>Desorganizado o difícil de navegar.</td>\n</tr>\n<tr>\n<td>Documentación técnica</td>\n<td>Incluye informes completos, medidas precisas y explicaciones rigurosas.</td>\n<td>Documentación adecuada con algunos detalles mejorables.</td>\n<td>Documentación incompleta o con errores técnicos.</td>\n<td>No aporta documentación técnica relevante.</td>\n</tr>\n<tr>\n<td>Evidencias de aprendizaje</td>\n<td>Incluye simulaciones, capturas, vídeos y registros bien presentados.</td>\n<td>Incluye evidencias suficientes y claras.</td>\n<td>Evidencias escasas o poco relevantes.</td>\n<td>No aporta evidencias del proceso.</td>\n</tr>\n<tr>\n<td>Reflexión personal</td>\n<td>Reflexión profunda, crítica y bien argumentada.</td>\n<td>Reflexión adecuada con algunos aspectos superficiales.</td>\n<td>Reflexión muy breve o poco significativa.</td>\n<td>No incluye reflexión personal.</td>\n</tr>\n<tr>\n<td>Competencia digital</td>\n<td>Uso excelente de herramientas digitales y recursos multimedia.</td>\n<td>Uso adecuado de herramientas digitales.</td>\n<td>Uso limitado o poco eficaz de herramientas digitales.</td>\n<td>No demuestra competencia digital.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76275c-ss6x6y4db</odePageId>
+  <odeParentPageId>page-mp762750-30e3emubx</odeParentPageId>
+  <pageName>RÚBRICA — Proyecto Integrador (Diagnóstico y Mantenimiento)</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RÚBRICA — Proyecto Integrador (Diagnóstico y Mantenimiento)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RÚBRICA — Proyecto Integrador (Diagnóstico y Mantenimiento)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76275c-ss6x6y4db</odePageId>
+      <odeBlockId>block-1778771469071-6h3kv7mgu</odeBlockId>
+      <blockName>(Integración RA1 + RA2)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76275c-ss6x6y4db</odePageId>
+          <odeBlockId>block-1778771469071-6h3kv7mgu</odeBlockId>
+          <odeIdeviceId>idevice-1778771469069-gysxztsq3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Descripción:</strong> Trabajo final en grupos de 3–4 donde se diagnostica y mantiene un sistema eléctrico naval real o simulado.</p>
+<table border="1" cellpadding="8" cellspacing="0" width="100%">
+<thead style="background: #e6e6e6;">
+<tr>
+<th>Aspectos a valorar</th>
+<th>Excelente</th>
+<th>Bien</th>
+<th>Regular</th>
+<th>Insuficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Diagnóstico técnico</td>
+<td>Diagnóstico preciso, completo y bien fundamentado.</td>
+<td>Diagnóstico correcto con pequeños errores.</td>
+<td>Diagnóstico incompleto o poco claro.</td>
+<td>Diagnóstico incorrecto o ausente.</td>
+</tr>
+<tr>
+<td>Procedimientos de mantenimiento</td>
+<td>Aplica procedimientos seguros y eficaces, documentando cada paso.</td>
+<td>Procedimientos adecuados con alguna omisión menor.</td>
+<td>Procedimientos incompletos o con errores.</td>
+<td>No aplica procedimientos adecuados.</td>
+</tr>
+<tr>
+<td>Trabajo en equipo</td>
+<td>Excelente coordinación, reparto equilibrado y comunicación fluida.</td>
+<td>Buena colaboración con pequeñas descompensaciones.</td>
+<td>Colaboración irregular o poco equilibrada.</td>
+<td>No hay colaboración efectiva.</td>
+</tr>
+<tr>
+<td>Presentación final</td>
+<td>Presentación clara, profesional y bien estructurada.</td>
+<td>Presentación adecuada con algunos aspectos mejorables.</td>
+<td>Presentación poco clara o incompleta.</td>
+<td>No presenta el proyecto o lo hace de forma insuficiente.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778771469069-gysxztsq3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Descripción:</strong> Trabajo final en grupos de 3–4 donde se diagnostica y mantiene un sistema eléctrico naval real o simulado.</p>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" width=\"100%\">\n<thead style=\"background: #e6e6e6;\">\n<tr>\n<th>Aspectos a valorar</th>\n<th>Excelente</th>\n<th>Bien</th>\n<th>Regular</th>\n<th>Insuficiente</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Diagnóstico técnico</td>\n<td>Diagnóstico preciso, completo y bien fundamentado.</td>\n<td>Diagnóstico correcto con pequeños errores.</td>\n<td>Diagnóstico incompleto o poco claro.</td>\n<td>Diagnóstico incorrecto o ausente.</td>\n</tr>\n<tr>\n<td>Procedimientos de mantenimiento</td>\n<td>Aplica procedimientos seguros y eficaces, documentando cada paso.</td>\n<td>Procedimientos adecuados con alguna omisión menor.</td>\n<td>Procedimientos incompletos o con errores.</td>\n<td>No aplica procedimientos adecuados.</td>\n</tr>\n<tr>\n<td>Trabajo en equipo</td>\n<td>Excelente coordinación, reparto equilibrado y comunicación fluida.</td>\n<td>Buena colaboración con pequeñas descompensaciones.</td>\n<td>Colaboración irregular o poco equilibrada.</td>\n<td>No hay colaboración efectiva.</td>\n</tr>\n<tr>\n<td>Presentación final</td>\n<td>Presentación clara, profesional y bien estructurada.</td>\n<td>Presentación adecuada con algunos aspectos mejorables.</td>\n<td>Presentación poco clara o incompleta.</td>\n<td>No presenta el proyecto o lo hace de forma insuficiente.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76275e-077jd755l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76275e-077jd755l</odePageId>
+      <odeBlockId>block-1778770335540-hqduzp5rs</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76275e-077jd755l</odePageId>
+          <odeBlockId>block-1778770335540-hqduzp5rs</odeBlockId>
+          <odeIdeviceId>idevice-1778770335539-i4akoz0vf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2 style="text-align: justify;">Relación de tareas y criterios de evaluación</h2>
+<p style="text-align: justify;">La siguiente tabla resume la relación entre las tareas del proyecto y los criterios de evaluación asociados:</p>
+<!-- (puedes reutilizar aquí la tabla del Nodo 6) -->
+<h2 style="text-align: justify;">Competencias específicas y clave</h2>
+<ul style="text-align: justify;">
+<li>Competencia técnica en sistemas eléctricos navales.</li>
+<li>Competencia digital aplicada a la simulación y documentación.</li>
+<li>Competencia de aprender a aprender y trabajo en equipo.</li>
+</ul>
+<h2 style="text-align: justify;">Recomendaciones metodológicas</h2>
+<ul>
+<li style="text-align: justify;">Combinar explicaciones breves con actividades prácticas y simulaciones.</li>
+<li style="text-align: justify;">Favorecer el trabajo cooperativo en parejas y pequeños grupos.</li>
+<li style="text-align: justify;">Ofrecer materiales de apoyo visual (esquemas, infografías, vídeos).</li>
+<li style="text-align: justify;">Aplicar los principios del DUA para atender a la diversidad del alumnado.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778770335539-i4akoz0vf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2 style=\"text-align: justify;\">Relación de tareas y criterios de evaluación</h2>\n<p style=\"text-align: justify;\">La siguiente tabla resume la relación entre las tareas del proyecto y los criterios de evaluación asociados:</p>\n<!-- (puedes reutilizar aquí la tabla del Nodo 6) -->\n<h2 style=\"text-align: justify;\">Competencias específicas y clave</h2>\n<ul style=\"text-align: justify;\">\n<li>Competencia técnica en sistemas eléctricos navales.</li>\n<li>Competencia digital aplicada a la simulación y documentación.</li>\n<li>Competencia de aprender a aprender y trabajo en equipo.</li>\n</ul>\n<h2 style=\"text-align: justify;\">Recomendaciones metodológicas</h2>\n<ul>\n<li style=\"text-align: justify;\">Combinar explicaciones breves con actividades prácticas y simulaciones.</li>\n<li style=\"text-align: justify;\">Favorecer el trabajo cooperativo en parejas y pequeños grupos.</li>\n<li style=\"text-align: justify;\">Ofrecer materiales de apoyo visual (esquemas, infografías, vídeos).</li>\n<li style=\"text-align: justify;\">Aplicar los principios del DUA para atender a la diversidad del alumnado.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp76275f-5fps4f7lg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS Y METADATOS</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS Y METADATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS Y METADATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp76275f-5fps4f7lg</odePageId>
+      <odeBlockId>block-1778770395757-pjh9wsmhw</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp76275f-5fps4f7lg</odePageId>
+          <odeBlockId>block-1778770395757-pjh9wsmhw</odeBlockId>
+          <odeIdeviceId>idevice-1778770395755-svvr2lnjp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: justify;">Créditos</h1>
+<p style="text-align: justify;"><strong>Autoría:</strong> David Quirós Lazareno</p>
+<p style="text-align: justify;"><strong>Descripción:</strong> Recurso eXeLearning para la Situación de Aprendizaje “Sistemas Eléctricos en Buques y Embarcaciones”, orientada al CFGS de Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones.</p>
+<p style="text-align: justify;"><strong>Licencia de uso:</strong> CC BY-SA 4.0 (Atribución – CompartirIgual)</p>
+<p style="text-align: justify;"><strong>Descarga del archivo editable:</strong><br /><a href="URL_DEL_ARCHIVO_ELP" target="_blank" rel="noopener">Descargar versión editable (.elp)</a></p>
+<p style="text-align: justify;">Las imágenes, vídeos y recursos externos utilizados en este proyecto respetan los derechos de autor y mantienen la licencia indicada por sus creadores en la página de origen.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778770395755-svvr2lnjp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: justify;\">Créditos</h1>\n<p style=\"text-align: justify;\"><strong>Autoría:</strong> David Quirós Lazareno</p>\n<p style=\"text-align: justify;\"><strong>Descripción:</strong> Recurso eXeLearning para la Situación de Aprendizaje “Sistemas Eléctricos en Buques y Embarcaciones”, orientada al CFGS de Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones.</p>\n<p style=\"text-align: justify;\"><strong>Licencia de uso:</strong> CC BY-SA 4.0 (Atribución – CompartirIgual)</p>\n<p style=\"text-align: justify;\"><strong>Descarga del archivo editable:</strong><br /><a href=\"URL_DEL_ARCHIVO_ELP\" target=\"_blank\" rel=\"noopener\">Descargar versión editable (.elp)</a></p>\n<p style=\"text-align: justify;\">Las imágenes, vídeos y recursos externos utilizados en este proyecto respetan los derechos de autor y mantienen la licencia indicada por sus creadores en la página de origen.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
